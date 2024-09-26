@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lethargictactician&label=Profile%20views&color=0e75b6&style=flat" alt="lethargictactician" /> </p>
 
-- 🔭 I’m currently working on **Various projects that will challenge me to improve what I already know**
+- 🔭 I’m currently working on **Various projects that will challenge me to improve what I already know, one of these being my personal porfolio which is still in progrees :)**
 
-- 🌱 I’m currently learning **AI (GCP, TensorFlow), Python, and practicing my Leet Code skills :')**
+- 🌱 I’m currently learning **AI (GCP, TensorFlow), and Python.**
 
 - 💬 Ask me about **C#, Algorithms and Data Structures, Service Architecture, OOP, and Design Patterns**
 
